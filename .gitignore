@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#build文件夹就不要上传了
+/build
