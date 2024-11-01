@@ -1,0 +1,2 @@
+D:/C-Code/cmake-test1/cmake-test1/build/CMakeFiles/edit_cache.dir
+D:/C-Code/cmake-test1/cmake-test1/build/CMakeFiles/rebuild_cache.dir
